@@ -9,6 +9,22 @@ For this project, we will use exploratory data analysis to generate insights for
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. Microsoft decides to create a new movie studio, but doesn't know anything about creating movies. Therefore we are to explore what types of films are currently doing the best at the box office. We then  translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 In order to answer this, we try the following objectives.
 
+### Objectives:
+
+1. Which genres have the highest rating?
+2. What is the coorelation between production budget, domestic gross and worldwide gross?
+3. What is the popularity of a movie depending on the month it was released?
+
+So, in addition to completing the basic data cleaning tasks and the aggregation and reshaping tasks needed to answer the question above, we'll also need to give feedback or conclusion on what microsoft needs to venture in.
+
+## Data Understanding
+Note that this data may not reflect the most up-to-date box office information.
+
+The data is contained in two separate CSV files and a sqlite database :
+1. `tmdb.movies.csv` : each record represents a movie with attributes of the movie (e.g language,release date)
+2. `tn.movie_budgets.csv` : each record represents a movie with the production budget, domestic gross and worldwide gross.
+3. `im.db` :  SQLite database where `movie_basics` and `movie_ratings` tables are the most relevant.
+t power
 
 ### The Data
 
