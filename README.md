@@ -40,9 +40,9 @@ Perform Data Cleaning and Agreggation Required to Answer the Objectives.
 
 ## Findings
 
-1. We get to see that the genre combination of Comedy, Documentary, Fantasy has the highest rating of 9.4 while the genre combination of comedy, musical, sport has the lowest rating of 1.4. ![Genre Rating Relationship](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
-2. We get to see that production budget and domestic gross have a positive correlation of 0.6856818396752724. we as well see this in both production budget and worldwide gross having a correlation of 0.7483059765694747.
-3. We get to see that a movie released in December has more popularity than a movie released in January or April.
+1. We get to see that the genre combination of Comedy, Documentary, Fantasy has the highest rating of 9.4 while the genre combination of comedy, musical, sport has the lowest rating of 1.4. ![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/genres.png)
+2. We get to see that production budget and domestic gross have a positive correlation of 0.6856818396752724.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20domestic%20gross.png) we as well see this in both production budget and worldwide gross having a correlation of 0.7483059765694747.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20worldwide%20gross.png)
+3. We get to see that a movie released in December has more popularity than a movie released in January or April.![Genre Rating Relationship](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
  
 
 For further reading on creating professional presentations, check out:
