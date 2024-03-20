@@ -41,28 +41,21 @@ Perform Data Cleaning and Agreggation Required to Answer the Objectives.
 ## Findings
 
 1. We get to see that the genre combination of Comedy, Documentary, Fantasy has the highest rating of 9.4 while the genre combination of comedy, musical, sport has the lowest rating of 1.4. ![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/genres.png)
-2. We get to see that production budget and domestic gross have a positive correlation of 0.6856818396752724.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20domestic%20gross.png) we as well see this in both production budget and worldwide gross having a correlation of 0.7483059765694747.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20worldwide%20gross.png)
-3. We get to see that a movie released in December has more popularity than a movie released in January or April.![Genre Rating Relationship](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
+2. We get to see that production budget and domestic gross have a positive correlation of 0.6856818396752724.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20domestic%20gross.png)
+3. we as well see this in both production budget and worldwide gross having a correlation of 0.7483059765694747.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/production%20budget%20vs%20worldwide%20gross.png)
+4. We get to see that a movie released in December has more popularity than a movie released in January or April.![Genre Rating Relationship](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/images/popularity%20based%20on%20month.png)
+
+# Conclusion
  
+## Recomendations
 
-For further reading on creating professional presentations, check out:
+Based on the findings of each objective, we find the following recomendations worthwhile for microsoft organisation to look after as they look forward to venture in the movie industry.
+1. venture into the genre combination of Comedy, Documentary, Fantasy has the highest rating than the rest meaning the audience highly recommend the genre combination. this is true as the analysis looked at the average rating of different movies having this combination and this was found to be the feedback.
+2. We have a positive coorelation between production budget and domestic gross as well as a positive correlation between production budget and worldwide gross. This means that the higher the production budget the higher the domestic gross and the worldwide gross. Therefore,having a higher production budget will be more profitable to the organisation
+3. The popularity of a movie is quite dependent on the time the movie is released. Going by this we see that when a movie is released in December the movie will be more popular than releasing the movie in the rest of the months.
 
-* [Presentation Content](https://github.com/learn-co-curriculum/dsc-project-presentation-content)
-* [Slide Style](https://github.com/learn-co-curriculum/dsc-project-slide-design)
+ ## For More Information  
+Please review my full analysis in my [Jupyter Notebook](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/student.ipynb) or my [Presentation](https://github.com/learn-co-curriculum/dsc-project-slide-design)
 
-
-
-
-1. `README.md`
-    * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
-    * This file contains these sections:
-       * Overview
-       * Business Understanding
-          * Include stakeholder and key business questions
-       * Data Understanding and Analysis
-          * Source of data
-          * Description of data
-          * Three visualizations (the same visualizations presented in the slides and notebook)
-       * Conclusion
-          * Summary of conclusions including three relevant findings
+For any additional questions, please contact Lynn Rose Achieng, lynn90952@gmail.com
 
