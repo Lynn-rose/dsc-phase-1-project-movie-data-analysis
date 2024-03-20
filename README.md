@@ -55,7 +55,7 @@ Based on the findings of each objective, we find the following recomendations wo
 3. The popularity of a movie is quite dependent on the time the movie is released. Going by this we see that when a movie is released in December the movie will be more popular than releasing the movie in the rest of the months.
 
  ## For More Information  
-Please review my full analysis in my [Jupyter Notebook](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/student.ipynb) or my [Presentation](https://github.com/learn-co-curriculum/dsc-project-slide-design)
+Please review my full analysis in my [Jupyter Notebook](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/student.ipynb) or my [Presentation](https://github.com/Lynn-rose/dsc-phase-1-project-movie-data-analysis/blob/master/presantation.pdf)
 
 For any additional questions, please contact Lynn Rose Achieng, lynn90952@gmail.com
 
